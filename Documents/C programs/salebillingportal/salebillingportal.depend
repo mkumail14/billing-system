@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701959552 source:c:\users\mkuma\documents\c programs\salebillingportal\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,20 @@
+
+
+1)Left: 9    Total: 12    Sold: 3    Price: 120000    Sale Price: 150000    Profit: Rs. 30000    Total Profit: Rs. 90000
+
+2)Left: 4    Total: 5    Sold: 1    Price: 37000    Sale Price: 40000    Profit: Rs. 3000    Total Profit: Rs. 3000
+
+
+****************************************
+
+
+****************************************
+Total Product-------------17
+Total Sold-------------4
+Total Left-------------13
+Total Cash-------------490000
+Overall Profit-------------93000
+To pay-------------397000
+
+
+****************************************
