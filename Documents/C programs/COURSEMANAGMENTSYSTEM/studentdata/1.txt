@@ -1,5 +1,0 @@
-Name:Test
-Father's Name:Testing
-Date of Birth:16-1-2006
-Graduating Year:2027
-Age:18.

@@ -1,9 +1,0 @@
-Name:ABBAS
-Father's Name:ALI
-Date of Birth:16-1-2006
-Graduating Year:2027
-Age:18.
-Semester No:1
-Course : English
-Course : Applied Physics
-Course : FOP
